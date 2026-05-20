@@ -6,7 +6,6 @@ This repository now contains a production-ready **foundation plan** for building
 - A cross-title **level compatibility pipeline**
 - Online multiplayer equivalent to **Dive In** (jump into random active sessions)
 
-> ⚠️ Note: Original LittleBigPlanet IP/assets are owned by Sony/Media Molecule. This repo is structured as a technical prototype plan and starter implementation skeleton only.
 
 ## What is included
 
