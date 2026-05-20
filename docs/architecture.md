@@ -3,7 +3,7 @@
 ## 1. Mobile Game Client
 
 - **Engine**: Unity (recommended for fast mobile iteration) or Unreal
-- **Targets**: iOS + Android
+- **Targets**: Android
 - **Core systems**:
   - Character controller (Sackperson-like movement)
   - Physics interactions (grab, push, pull, swing)
